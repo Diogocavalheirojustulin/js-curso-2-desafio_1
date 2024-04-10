@@ -12,4 +12,7 @@ function calcularFatorial(numero) {
     }
 }
 
+
+
+
 alert(`O fatorial de ${numero} é ${fatorial}`);
